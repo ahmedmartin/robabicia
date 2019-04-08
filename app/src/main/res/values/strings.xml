@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="government">
+        <item>City</item>
+        <item>Cairo</item>
+        <item>Alexandria</item>
+        <item>Giza</item>
+        <item>Aswan</item>
+        <item>Asyut</item>
+        <item>Beheira</item>
+        <item>Beni Suef</item>
+        <item>Dakahlia</item>
+        <item>Damietta</item>
+        <item>Faiyum</item>
+        <item>Gharbia</item>
+        <item>Ismailia</item>
+        <item>Kafr El Sheikh	</item>
+        <item>Luxor</item>
+        <item>Matruh</item>
+        <item>Minya</item>
+        <item>Monufia</item>
+        <item>New Valley</item>
+        <item>North Sinai</item>
+        <item>Port Said</item>
+        <item>Qalyubia</item>
+        <item>Qena</item>
+        <item>Red Sea</item>
+        <item>Sharqia</item>
+        <item>Sohag</item>
+        <item>South Sinai</item>
+        <item>Suez</item>
+    </string-array>
+
+    <string-array name="boy_girl">
+        <item>Gender</item>
+        <item>BOY</item>
+        <item>GIRL</item>
+    </string-array>
+
+    <string-array name="rent_buy">
+        <item>Type</item>
+        <item>RENT</item>
+        <item>SALE</item>
+    </string-array>
+
+
+    <string-array name="category">
+        <item>Category</item>
+        <item>Clothes</item>
+        <item>Accessories</item>
+        <item>Mobile and Accessories</item>
+        <item>Cars and Accessories</item>
+        <item>Baby paradies</item>
+        <item>Antiques</item>
+        <item>Electronic</item>
+        <item>Book</item>
+        <item>Pets</item>
+        <item>Sports</item>
+        <item>Building</item>
+        <item>Music</item>
+        <item>tools</item>
+        <item>other</item>
+
+    </string-array>
+
+</resources>
